@@ -68,7 +68,15 @@ a {
   color:#000000;
 }
 
+.post h1 a:hover {
+  color: #808285;
+}
+
 #post h1 a {
   font-family: monospace;
   color:#000000;
+}
+
+#post h1 a:hover {
+  color: #808285;
 }
