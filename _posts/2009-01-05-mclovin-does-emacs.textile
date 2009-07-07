@@ -23,7 +23,7 @@ h2. My likes
 
 h2. My dislikes
 
-* Found it hard to learn/configure in the beginning. Spent at least 3-4 hours trying to get my "configuration":http://www.github.com/arunthampi/emacs-starter-kit (forked from "topfunky":http://www.twitter.com/topfunky) right. The peepcode was a great help.
+* Found it hard to learn/configure in the beginning. Spent at least 3-4 hours trying to get my "configuration":http://www.github.com/arunthampi/emacs-starter-kit forked from "topfunky":http://www.twitter.com/topfunky) right. The peepcode was a great help.
 * The different key-combinations are slightly overwhelming, but on the bright-side, unlike Vim I don't need to switch from command-mode to edit-mode and back during coding.
 
 It's still early days and who knows, I might still head back to good ol' TextMate soon. On the other hand, if I can push through the initial pain-barrier, Emacs offers an awesome and powerful cross-platform IDE.
