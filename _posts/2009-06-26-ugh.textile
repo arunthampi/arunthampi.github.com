@@ -9,7 +9,7 @@ It's ironic that I just finished watching a "VelocityConf":http://velocityconfer
 
 bq. For anyone who has seen the new Pixar movie, *Up*, this reminds me of the scene where they have to throw stuff out of the house to make it float again.
 
-Every website (and that includes "Facebook":http://www.facebook.com", "Twitter":http://www.twitter.com, "EngineYard":http://www.engineyard.com and "Flickr":http://www.flickr.com) recommends that your application have switches and levers in place, so that you can turn off features when load is high. This is so that the site remains functional, at the cost of 'downtime' for only certain features. It's a credit to Twitter that they have such infrastructure elements in place.
+Every website (and that includes "Facebook":http://www.facebook.com, "Twitter":http://www.twitter.com, "EngineYard":http://www.engineyard.com and "Flickr":http://www.flickr.com) recommends that your application have switches and levers in place, so that you can turn off features when load is high. This is so that the site remains functional, at the cost of 'downtime' for only certain features. It's a credit to Twitter that they have such infrastructure elements in place.
 
 Twitter has its share of problems, agreed. But it has a bunch of incredible people working on it (as do most web startups), and for them to be subject to such belittling from arm-chair experts who can't appreciate that running a web application which has a tremendous growth rate is hard work; pisses me off. To use words such as 'afloat' and 'kill-feature-time' when Twitter has been growing at an incredible rate is misguided.
 
