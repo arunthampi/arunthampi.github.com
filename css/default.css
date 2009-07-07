@@ -1,7 +1,9 @@
 body {
-  font-family: Verdana,"Bitstream Vera Sans",sans-serif;
-  font-size: 12px;
+  font-family: "Bitstream Vera Sans", Helvetica ,sans-serif;
+  font-size: 14px;
+  line-height:22px;
 }
+
 #site {
   margin: 0 auto;
   padding: 0;
@@ -18,13 +20,6 @@ body {
 #title h1 a {
   background:transparent url(/images/mclovin.png) no-repeat scroll 0 0;
   float:left;
-  font-family:georgia,serif;
-  font-size:320%;
-  font-size-adjust:none;
-  font-stretch:normal;
-  font-style:normal;
-  font-variant:normal;
-  font-weight:bold;
   height:68px;
   letter-spacing:-1px;
   line-height:normal;
@@ -35,8 +30,7 @@ body {
 
 #title h2 {
   float:right;
-  font-family:verdana,arial,sans-serif;
-  font-size:12px;
+  font-size:14px;
   font-size-adjust:none;
   font-stretch:normal;
   font-style:normal;
