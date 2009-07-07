@@ -84,13 +84,8 @@ a {
 #rss_subscribe a {
   background:transparent url(/images/rss.png) no-repeat scroll 0 0;
   display:block;
-  font-size:16px;
-  font-family: monospace;
-  color: #000000;
+  font-size: 18px;
   font-weight:bold;
   height:148px;
-  letter-spacing:-1px;
-  list-style-type:none;
-  margin:0 5px 0 0;
   padding:150px 0 0 10px;
 }
