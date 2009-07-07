@@ -63,6 +63,7 @@ a {
   padding-top: 18px;
 }
 
-.post h1 {
+.post h1 a {
   font-family: monospace;
+  color:#000000;
 }
