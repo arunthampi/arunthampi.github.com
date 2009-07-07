@@ -39,7 +39,8 @@ a {
 }
 
 #title h1 a {
-  background:transparent url(/images/mclovin.png) no-repeat scroll 0 0;
+/*  background:transparent url(/images/mclovin.png) no-repeat scroll 0 0; */
+  background:transparent url(/images/mclovin_license.png) no-repeat scroll 0 0;
   float:left;
   height:68px;
   letter-spacing:-1px;
