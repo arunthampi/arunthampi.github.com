@@ -4,6 +4,11 @@ body {
   line-height:22px;
 }
 
+a {
+  color:#0080F0;
+  text-decoration:none;
+}
+
 #site {
   margin: 0 auto;
   padding: 0;
@@ -19,6 +24,11 @@ body {
   width: 220px;
   float: right;
   margin-top: 18px;
+}
+
+#body-right h3 {
+  font-family: monospace;
+  font-size: 18px;
 }
 
 #title {
