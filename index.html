@@ -1,11 +1,15 @@
-<html>
-<head>
-<title>My GitHub Page</title>
-</head>
-
-<body>
-<h1>GitHubbin'</h1>
-</body>
-
-</html>
-
+---
+layout: default
+title: McLovin's Home
+---
+ 
+<div id="home">
+{% for post in site.posts limit: 5 %}
+  <div class="post">
+    {{ post.content }}
+    <p class="signoff">
+      &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
+    </p>
+  </div>
+{% endfor %}
+</div>

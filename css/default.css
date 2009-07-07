@@ -1,0 +1,52 @@
+body {
+  font-family: Verdana,"Bitstream Vera Sans",sans-serif;
+  font-size: 12px;
+}
+#site {
+  margin: 0 auto;
+  padding: 0;
+  width: 900px;
+}
+
+#title {
+  background: transparent url(/images/header_shadow.gif) repeat-x scroll left bottom;
+  height: 75px;
+  margin: 0 -0.5px 12px 0;
+  padding: 0;
+}
+
+#title h1 a {
+  background:transparent url(/images/mclovin.png) no-repeat scroll 0 0;
+  float:left;
+  font-family:georgia,serif;
+  font-size:320%;
+  font-size-adjust:none;
+  font-stretch:normal;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:bold;
+  height:68px;
+  letter-spacing:-1px;
+  line-height:normal;
+  margin:0;
+  width:295px;
+  text-indent: -10000px;
+}
+
+#title h2 {
+  float:right;
+  font-family:verdana,arial,sans-serif;
+  font-size:12px;
+  font-size-adjust:none;
+  font-stretch:normal;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:normal;
+  line-height:normal;
+  margin:2.35em 0.2em 0 0;
+  padding-top: 18px;
+}
+
+.post h1 {
+  font-family: monospace;
+}
