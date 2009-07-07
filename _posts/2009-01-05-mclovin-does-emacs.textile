@@ -3,7 +3,7 @@ layout: post
 title: Mclovin does Emacs
 ---
 
-h1. {{ page.title }}
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 
 As part of my New Years Resolution to increase my overall productivity and be more disciplined (generally in life), I've been experimenting with a couple of text-editors. Tried out vim first because I was quite familiar with it, but it didn't promise the paradigm-shift that I was expecting to happen in my work-flow.
 

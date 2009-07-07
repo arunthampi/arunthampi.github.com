@@ -3,7 +3,7 @@ layout: post
 title: Ugh
 ---
 
-h1. {{ page.title }}
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 
 It's ironic that I just finished watching a "VelocityConf":http://velocityconference.blip.tv/ video and stumbled upon this "gem":http://www.techcrunch.com/2009/06/25/its-kill-feature-time-again-at-twitter-to-stay-up/ from TechCrunch. A choice quote:
 
