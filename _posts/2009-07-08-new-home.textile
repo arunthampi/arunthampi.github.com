@@ -4,6 +4,7 @@ title: New Home
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
 p(meta). 08 Jul 2009 - Singapore
 
 So, I've moved house again. I've been meaning to do this ever since I snagged the mclov.in domain sometime early this year. Tried "posterous":posterous.com but using custom domains makes it way too slow, and after contacting them, they said it would be resolved in one of their future releases. This site is hosted at "GitHub":http://www.github.com and is powered by "Jekyll":http://wiki.github.com/mojombo/jekyll (for managing markup) and "Disqus":http://www.disqus.com (for comments).  

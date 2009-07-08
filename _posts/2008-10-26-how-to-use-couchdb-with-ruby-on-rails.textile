@@ -4,6 +4,7 @@ title: How To Use CouchDB/ActiveCouch with Ruby On Rails
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
 p(meta). 26 Oct 2008 - Singapore
 
 I was going to blog about this, but thought it might be better to link to a wiki, which will be easier to update depending on when changes are made, or errors that are discovered.

@@ -4,6 +4,7 @@ title: The English Premier League GitHub Application
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
 p(meta). 25 Jan 2009 - Singapore
 
 After half a day's worth of data-gathering and HTML/CSS/Javascript, I present to you: the "EPL GitHub App":http://epl.github.com.
