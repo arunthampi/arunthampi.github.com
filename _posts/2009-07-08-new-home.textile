@@ -7,7 +7,7 @@ title: New Home
 
 p(meta). 08 Jul 2009 - Singapore
 
-So, I've moved house again. I've been meaning to do this ever since I snagged the mclov.in domain sometime early this year. Tried "posterous":posterous.com but using custom domains makes it way too slow, and after contacting them, they said it would be resolved in one of their future releases. This site is hosted at "GitHub":http://www.github.com and is powered by "Jekyll":http://wiki.github.com/mojombo/jekyll (for managing markup) and "Disqus":http://www.disqus.com (for comments).  
+So, I've moved house again. I've been meaning to do this ever since I snagged the mclov.in domain sometime early this year. Tried "posterous":posterous.com but using custom domains makes it way too slow, and after contacting them, they said it would be resolved in one of their future releases (but with no definite release date). This site is hosted at "GitHub":http://www.github.com and is powered by "Jekyll":http://wiki.github.com/mojombo/jekyll (for managing markup) and "Disqus":http://www.disqus.com (for comments).  
 
 The hard part of this move was getting the few posts that I had over at "Wordpress":http://mclovindoesruby.wordpress.com. Since I had a vanilla Wordpress blog, I needed to export all of the blog's contents as an XML file and then use an 'importer' to convert to Jekyll-ready posts. My untested code is "here":http://github.com/arunthampi/jekyll/tree/master - please feel free to fork and apply changes. "Mojombo's":http://github.com/mojombo/mojombo.github.com and "Al3x's":http://github.com/al3x/al3x.github.com blogs were also great starting points for me to dive deep into Jekyll and get me started.
 
