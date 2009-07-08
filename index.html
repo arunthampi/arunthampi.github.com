@@ -6,8 +6,8 @@ title: McLovin's Home - Ramblings about Ruby, CouchDB, Rails and other joys of l
 {% for post in site.posts limit: 5 %}
   <div class="post">
     {{ post.content }}
-    <p class="signoff">
-      &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
-    </p>
+    <div class="signoff">
+      <a href="{{ post.url }}#disqus_thread">View Comments</a>
+    </div>
   </div>
 {% endfor %}
