@@ -71,15 +71,6 @@ a {
   color: #808285;
 }
 
-#post h1 a {
-  font-family: monospace;
-  color:#000000;
-}
-
-#post h1 a:hover {
-  color: #808285;
-}
-
 #rss_subscribe a {
   background:transparent url(/images/rss.png) no-repeat scroll 0 0;
   display:block;
@@ -87,4 +78,8 @@ a {
   font-weight:bold;
   height:148px;
   padding:150px 0 0 10px;
+}
+
+.post .meta {
+  color: #808285;
 }

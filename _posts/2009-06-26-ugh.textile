@@ -4,6 +4,7 @@ title: Ugh
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+p(meta). 26 Jun 2009 - Singapore
 
 It's ironic that I just finished watching a "VelocityConf":http://velocityconference.blip.tv/ video and stumbled upon this "gem":http://www.techcrunch.com/2009/06/25/its-kill-feature-time-again-at-twitter-to-stay-up/ from TechCrunch. A choice quote:
 

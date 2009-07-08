@@ -4,6 +4,7 @@ title: SuperModel - to sexy up your Ruby models
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+p(meta). 11 Jun 2008 - Singapore
 
 A few months ago, my friend "Chu Yeow":http://blog.codefront.net and I "released":http://www.wego.com/blog/2008/01/23/activecouch-a-ruby-wrapper-for-couchdb/ a Ruby gem called ActiveCouch which was designed to be a very elegant Ruby wrapper for the exciting new phenomenon - "CouchDB":http://incubator.apache.org/couchdb/. ActiveCouch was my first shot at a Ruby library and I had a lot of fun creating elegant DSL's (a lot of which were inspired from ActiveRecord and ActiveResource). In essence, "ActiveCouch":http://www.github.com/arunthampi/activecouch lets you define models like so:
 
