@@ -59,7 +59,11 @@ a {
   font-weight:normal;
   line-height:normal;
   margin:2.35em 0.2em 0 0;
-  padding-top: 18px;
+  padding-top: 15px;
+}
+
+.favicon {
+  padding-right: 3px;
 }
 
 .post h1 a {
