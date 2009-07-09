@@ -49,7 +49,7 @@ a {
   text-indent: -10000px;
 }
 
-#title h2 {
+#title #header_links {
   float:right;
   font-size:14px;
   font-size-adjust:none;
@@ -59,7 +59,33 @@ a {
   font-weight:normal;
   line-height:normal;
   margin:2.35em 0.2em 0 0;
-  padding-top: 15px;
+  padding-top: 18px;
+}
+
+.header_link {
+  background-position:9px 0;
+  background-repeat:no-repeat;
+  float:left;
+  height:20px;
+  padding-left:28px;
+  padding-top:2.5px;
+  text-align:right;
+}
+
+#tw {
+  background-image: url(http://twitter.com/favicon.ico);
+}
+
+#ff {
+  background-image: url(http://friendfeed.com/favicon.ico);
+}
+
+#gh {
+  background-image: url(http://github.com/favicon.ico);
+}
+
+#em {
+  background-image: url(http://mail.google.com/favicon.ico);
 }
 
 .favicon {
