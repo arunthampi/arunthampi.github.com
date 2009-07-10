@@ -113,3 +113,15 @@ a {
 .post .meta {
   color: #808285;
 }
+
+.code {
+  font-family:Monaco,"Courier New",monospace;
+  font-size:12px;
+  line-height:130%;
+  margin:0;
+  padding:0;  
+}
+
+.image {
+  text-align: center;
+}
