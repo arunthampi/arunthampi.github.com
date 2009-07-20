@@ -12,6 +12,7 @@ layout: nil
    <name>Arun Thampi</name>
    <email>arun.thampi@gmail.com</email>
  </author>
+ 
  {% for post in site.posts limit:10 %}
  <entry>
    <title>{{ post.title }}</title>
@@ -25,4 +26,5 @@ layout: nil
    </author>
  </entry>
  {% endfor %}
+ 
 </feed>
