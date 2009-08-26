@@ -27,7 +27,7 @@ There are some interesting facets of i.canhazthread.com which I'd like to elabor
 
 * I use <a href="http://github.com/shopify/delayed_job">delayed_job</a> and <a href="http://god.rubyforge.org">God</a> to deliver tweets in the background, whenever a thread is created/reply is posted.
 
-* This is not that interesting, but I think is an interesting use-case for i.canhazthread.com - you can embed GitHub <a href="http://gist.github.com">gists</a> in your threads and discuss (and reply with) code.
+* This is not that interesting, but I think is a nice use-case for i.canhazthread.com - you can embed GitHub <a href="http://gist.github.com">gists</a> in your threads and discuss (and reply with) code.
 
 Stay tuned for few more i.canhazthread.com adventures over the course of the next few weeks.
 
