@@ -125,3 +125,8 @@ a {
 .image {
   text-align: center;
 }
+
+div.slide {
+  width: 100%;
+  text-align: center;
+}
