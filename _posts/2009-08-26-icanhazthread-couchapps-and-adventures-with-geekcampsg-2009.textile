@@ -15,7 +15,7 @@ It was then, that I came across Joshua Schachter's <a href="http://a.tinythread.
   <img alt="i.canhazthread.com thread view page" src="/images/blog/canhazthread.png"/>
 </p>
 
-Thus was born <a href="http://i.canhazthread.com">i.canhazthread.com</a>. It pretty much has the same functionality as TinyThread but over the past one week, there've been some new features added, which I like and there are some more that I would like to be in the product as well. As mentioned during #geekcampsg, i.canhazthread.com is powered by Ruby On Rails and CouchDB. Rails handles all the nitty-gritty behind Twitter-OAuth authorizations and HTML rendering etc, which CouchDB powers the back-end. The CouchDB back-end behind i.canhazthread.com is open source and is available on <a href="http://github.com/arunthampi/icanhazthread">GitHub</a>.
+Thus was born <a href="http://i.canhazthread.com">i.canhazthread.com</a>. It pretty much has the same functionality as TinyThread but over the past one week, there've been some new features added which I like, and there are some more that I would like to be in the product as well. As mentioned during #geekcampsg, i.canhazthread.com is powered by Ruby On Rails and CouchDB. Rails handles all the nitty-gritty behind Twitter-OAuth authorizations and HTML rendering etc, while CouchDB powers the back-end. The CouchDB back-end behind i.canhazthread.com is open source and is available on <a href="http://github.com/arunthampi/icanhazthread">GitHub</a>.
 
 There are some interesting facets of i.canhazthread.com which I'd like to elaborate in detail over a few blog posts, but I'll list them here anyway (as a reminder-to-self):
 
@@ -27,14 +27,12 @@ There are some interesting facets of i.canhazthread.com which I'd like to elabor
 
 * I use <a href="http://github.com/shopify/delayed_job">delayed_job</a> and <a href="http://god.rubyforge.org">God</a> to deliver tweets in the background, whenever a thread is created/reply is posted.
 
-* This is not that interesting, but I think is an interesting use-case for i.canhazthread.com - you can embed GitHub <a href="http://gist.github.com">gists</a> and discuss code.
+* This is not that interesting, but I think is an interesting use-case for i.canhazthread.com - you can embed GitHub <a href="http://gist.github.com">gists</a> in your threads and discuss (and reply with) code.
 
 Stay tuned for few more i.canhazthread.com adventures over the course of the next few weeks.
 
-Finally, I'd just like to give my thanks to the organizers of #geekcampsg for giving me the opportunity to speak and I'd just like to say that I had a great time and hope for more kick-ass GeekCamps in the future.
+Finally, I'd just like to give my thanks to the organizers of #geekcampsg for giving me the opportunity to speak and I'd just like to say that I had a great time and hope for more kick-ass GeekCamps in the future. You can get slides of a few #geekcampsg presentations <a href="http://www.slideshare.net/search/slideshow?q=+%23geekcampsg&submit=post&searchfrom=header">here</a> (NB: This is not the entire list and will probably be updated gradually).
 
-My slides at #geekcampsg are below:
+My slides are below:
 
 <div style="width:425px;text-align:left;margin-left: 112.5px;" id="__ss_1890652"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/arunthampi/geekcamp-sg-2009-couchapps-with-couchdb" title="GeekCamp SG 2009 - CouchApps with CouchDB">GeekCamp SG 2009 - CouchApps with CouchDB</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=geekcamppresentation-090821111820-phpapp02&stripped_title=geekcamp-sg-2009-couchapps-with-couchdb" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=geekcamppresentation-090821111820-phpapp02&stripped_title=geekcamp-sg-2009-couchapps-with-couchdb" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/arunthampi">Arun Thampi</a>.</div></div>
-
-Other GeekCamp SG presentations are available <a href="http://www.slideshare.net/search/slideshow?q=+%23geekcampsg&submit=post&searchfrom=header">here</a> (NB: This is not the entire list and will probably be updated gradually)
