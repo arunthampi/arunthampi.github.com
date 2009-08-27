@@ -47,6 +47,7 @@ a {
   margin:0;
   width:295px;
   text-indent: -10000px;
+  line-height:1.1em;
 }
 
 #title #header_links {
@@ -124,6 +125,8 @@ a {
 
 .image {
   text-align: center;
+  padding-bottom:15px;
+  padding-top:15px;
 }
 
 div.slide {
