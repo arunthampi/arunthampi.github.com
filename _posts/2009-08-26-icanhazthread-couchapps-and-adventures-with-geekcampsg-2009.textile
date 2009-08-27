@@ -29,7 +29,7 @@ There are some interesting facets of i.canhazthread.com which I'd like to elabor
 
 * This is not that interesting, but I think is a nice use-case for i.canhazthread.com - you can embed GitHub <a href="http://gist.github.com">gists</a> in your threads and discuss (and reply with) code.
 
-Stay tuned for few more i.canhazthread.com adventures over the course of the next few weeks.
+Stay tuned for a few more i.canhazthread.com adventures over the course of the next few weeks.
 
 Finally, I'd just like to give my thanks to the organizers of #geekcampsg for giving me the opportunity to speak and I'd just like to say that I had a great time and hope for more kick-ass GeekCamps in the future. You can get slides of a few #geekcampsg presentations <a href="http://www.slideshare.net/search/slideshow?q=+%23geekcampsg&submit=post&searchfrom=header">here</a> (NB: This is not the entire list and will probably be updated gradually).
 
