@@ -47,7 +47,6 @@ a {
   margin:0;
   width:295px;
   text-indent: -10000px;
-  line-height:1.1em;
 }
 
 #title #header_links {
@@ -96,6 +95,7 @@ a {
 .post h1 a {
   font-family: monospace;
   color:#000000;
+  line-height: 1.1em;
 }
 
 .post h1 a:hover {
