@@ -30,15 +30,15 @@ The map function is relatively straightforward as given below:
 
 This uses the <a href="http://www.cmlenz.net/archives/2007/10/couchdb-joins">view collation technique</a> as described by Christopher Lenz and it basically emits k-v pairs where the keys represent the ID's of the threads and the values can be either threads or replies; but replies will always be preceded by the thread that it belongs to. Something like this:
 
-* Thread 1 T1 (id = IDT1, key = IDT1 )
-   -> Reply 1 to Thread 1 RT1 (id = IDR1, key = IDT1)
-   -> Reply 2 to Thread 1 RT2 (id = IDR2, key = IDT1)
-   -> Reply 3 to Thread 1 RT3 (id = IDR3, key = IDT1)
-* Thread 2 T2 (id = IDT2, key = IDT2)
-* Thread 3 T3 (id = IDT3, key = IDT3)
-   -> Reply 1 to Thread 3 RT4 (id = IDR4, key = IDT3)
-   -> Reply 2 to Thread 3 RT5 (id = IDR5, key = IDT3)
-* Thread 4 T4 (id = IDT4, key = IDT4)
+* Thread 1 *T1* (id = *IDT1*, key = *IDT1* )
+   -> Reply 1 to Thread 1 *RT1* (id = *IDR1*, key = *IDT1*)
+   -> Reply 2 to Thread 1 *RT2* (id = *IDR2*, key = *IDT1*)
+   -> Reply 3 to Thread 1 *RT3* (id = *IDR3*, key = *IDT1*)
+* Thread 2 *T2* (id = *IDT2*, key = *IDT2*)
+* Thread 3 *T3* (id = *IDT3*, key = *IDT3*)
+   -> Reply 1 to Thread 3 *RT4* (id = *IDR4*, key = *IDT3*)
+   -> Reply 2 to Thread 3 *RT5* (id = *IDR5*, key = *IDT3*)
+* Thread 4 *T4* (id = *IDT4*, key = *IDT4*)
 
 
 h2. The Reduce Function
