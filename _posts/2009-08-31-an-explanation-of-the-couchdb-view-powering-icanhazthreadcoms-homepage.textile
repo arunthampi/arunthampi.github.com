@@ -61,9 +61,9 @@ The other captcha we have to keep in mind is the _rereduce_ property of CouchDB 
 
 In the example for the first group (i.e. Thread 1 and its 3 associated replies) the reduce function can be called in many possible ways, two of which are detailed below:
 
-1. The simplest scenario is when all four values are passed to the reduce function at once. In this case, re-reduce is not called and we get the final output with a single call of the reduce function.
+* The simplest scenario is when all four values are passed to the reduce function at once. In this case, re-reduce is not called and we get the final output with a single call of the reduce function.
 
-2. The extreme case when the reduce function is called separately for each object: i.e. Reduce is called first for Thread 1; a second time for Reply 1; a third time for Reply 2 and finally a fourth time for Reply 3. Each call of the reduce function emits an intermediate value which will be sent again to the reduce function with the _rereduce_ parameter set to true. The reduce function must be able to handle this scenario.
+* The extreme case when the reduce function is called separately for each object: i.e. Reduce is called first for Thread 1; a second time for Reply 1; a third time for Reply 2 and finally a fourth time for Reply 3. Each call of the reduce function emits an intermediate value which will be sent again to the reduce function with the _rereduce_ parameter set to true. The reduce function must be able to handle this scenario.
 
 The two scenarios are listed below:
 
