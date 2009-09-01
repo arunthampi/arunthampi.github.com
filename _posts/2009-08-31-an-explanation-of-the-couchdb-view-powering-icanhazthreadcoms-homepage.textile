@@ -18,6 +18,7 @@ i.canhazthread.com stores threads and replies as separate documents, with thread
 * Timestamp of the thread
 * Timestamp of the last reply of the thread
 * Threads must be sorted by recency (most recent thread first)
+* Number of replies associated with the thread
 
 This seems quite trivial, but my biggest requirement was that this must be possible using _one_ HTTP call and not n + 1 (where n is the number of threads => 1 call to get all threads, and n calls to get details of replies for each thread).
 
@@ -96,6 +97,11 @@ reduce(null, [O1, O2, O3, O4], true)
 h3. Sorting
 
 The final conundrum was sorting - since CouchDB does not allow sorting based on values (although there are <a href="http://n2.nabble.com/chaining-map-reduce-in-hovercraft-td3028752.html">ongoing efforts</a> to alleviate that problem) - we need to be innovative (read hackish). It's for this reason that the ID's of documents are a combination of the timestamp of the creation of the thread + the username of the creator (the username is added for uniqueness). With this it becomes very trivial to sort, since the key (or ID of the document) is a timestamp.
+
+
+h3. Profit
+
+So in summary, the reduce function takes as input all threads and its associated replies and emits a _result_ object per thread which gives the text associated with the thread, the thread creator's name, time of creation of thread, time of last reply and number of replies.
 
 
 Hopefully I've managed been able to translate Javascript map/reduce to English. If not, you can follow along at the <a href="http://github.com/arunthampi/icanhazthread">GitHub repo</a> and the <a href="http://wiki.couchdb.org">CouchDB wiki</a> is an excellent resource as well.
