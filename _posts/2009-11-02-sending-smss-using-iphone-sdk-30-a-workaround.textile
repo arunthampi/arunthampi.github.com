@@ -25,7 +25,7 @@ This is illustrated below:
   <img alt="Sending SMS Action Sheet" src="/images/blog/actionsheet.png"/>
 </p>
 
-<b>Above</b>: Action Sheet which brings up the various options, one of which is 'Send SMS'.
+<b>Above</b>: Action Sheet which brings up the various options, one of which is 'Copy and Paste in SMS'.
 
 <p class="image">
   <img alt="SMS App Launches with this screen" src="/images/blog/paste.jpg"/>
