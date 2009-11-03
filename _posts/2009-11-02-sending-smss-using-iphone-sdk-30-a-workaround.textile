@@ -11,11 +11,11 @@ I've been trying to find a way to send SMS's as part of my upcoming iPhone app -
 
 h2. The iPhone URL Scheme
 
-The "iPhone OS Reference Library":http://developer.apple.com/iphone/library/featuredarticles/iPhoneURLScheme_Reference/Articles/sms.html recommends that we use the 'sms://' protocol to send SMS's. Essentially if we need to send an SMS to a number such as 87654321, we can launch the SMS with 'sms://87654321'. While this is fine and dandy for most cases, I would also like the body of the SMS pre-filled so that the user does not have to re-enter all that information.
+The "iPhone OS Reference Library":http://developer.apple.com/iphone/library/featuredarticles/iPhoneURLScheme_Reference/Articles/sms.html recommends that we use the 'sms://' protocol to send SMS's. Essentially if we need to send an SMS to a number such as 87654321, we can launch the SMS app with the URL 'sms://87654321'. While this is fine and dandy for most cases, I would also like the body of the SMS pre-filled so that the user does not have to re-enter all that information.
 
 h2. My workaround (which hopefully isn't a PITA)
 
-Bear in mind that this solution will probably be rendered by obsolete by the next update of iPhone OS which will include an awesome MFSMSComposeViewController (sic) of some sort, but for the time being my workaround flows like this:
+Bear in mind that this solution will probably be rendered obsolete by the next update of iPhone OS which will include an awesome MFSMSComposeViewController (sic) of some sort, but for the time being my workaround flows like this:
 
 The body of the SMS which I want to be sent is copied to the clipboard. The user is then presented with a UIActionSheet which provides this option: 'Copy and Paste in SMS'. When the user selects that option, the SMS app is opened with a blank recipient list, and the user can then tap once in the body to invoke the 'copy-paste-select-all' widget, thus allowing you to paste the details of the showtime you want to share.
 
