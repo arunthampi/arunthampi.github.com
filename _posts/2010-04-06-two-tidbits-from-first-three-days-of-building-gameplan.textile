@@ -7,7 +7,7 @@ title: Two tidbits from first three days of building Gameplan
 
 p(meta). 6 Apr 2010 - Singapore
 
-So as you may or may not know, Andy and I are building "Gameplan":http://gameplanapp.com (which, to paraphrase "Jon Stewart":http://thedailyshow.com will be the best *expletive* sports league management software on the planet). We've already started in great earnest, and we're looking forward to kicking on and making lots of progress. By the way, we are chronicling our progress at "Naked Startup":http://nakedstartup.com
+So as you may or may not know, Andy and I are building "Gameplan":http://gameplanapp.com (which, to paraphrase "Jon Stewart":http://thedailyshow.com will be the best *expletive* sports league management software on the planet). We've already started in great earnest, and we're looking forward to kicking on and making lots of progress. By the way, we are chronicling our progress at "Naked Startup":http://nakedstartup.com.
 
 There're two interesting technical gotchas which we experienced in the last three days, that I'd like to share.
 
