@@ -2,7 +2,7 @@ require 'vendor/gems/permalizer/lib/permalizer'
 
 namespace :mclovin do
   
-  desc "New Blog Post"
+  desc "New Blog Post, Usage: rake mclovin:new blog_title=\"Test\""
   task :new do
     blog_title, now = ENV['blog_title'], Time.now
     todays_date = now.strftime("%Y-%m-%d")
