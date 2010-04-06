@@ -20,12 +20,14 @@ a {
 #body-left {
   width: 650px;
   float: left;
+  margin-top: -30px;
 }
 
 #body-right {
   width: 220px;
   float: right;
   font-size: 13px;
+  margin-top: -30px;
 }
 
 #body-right h3 {
@@ -41,15 +43,13 @@ a {
 }
 
 #title h1 a {
-/*  background:transparent url(/images/mclovin.png) no-repeat scroll 0 0; */
-  background:transparent url(/images/mclovin.png) no-repeat scroll 0 0;
   float:left;
   height:68px;
   letter-spacing:-1px;
   line-height:normal;
   margin:0;
   width:295px;
-  text-indent: -10000px;
+  margin-top:42px;
 }
 
 #title #header_links {
@@ -95,9 +95,13 @@ a {
   padding-right: 3px;
 }
 
+.post {
+  margin-bottom: 50px;
+}
+
 .post h1 a {
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  color:#000000;
+  color: #717180;
   line-height: 1.1em;
 }
 
