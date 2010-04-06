@@ -2,6 +2,8 @@ body {
   font-family: "Bitstream Vera Sans", Helvetica ,sans-serif;
   font-size: 14px;
   line-height:22px;
+  background: url("/images/header.png") repeat-x scroll 0 0 #F6F6F8;
+  color: #717180;
 }
 
 a {
@@ -23,10 +25,11 @@ a {
 #body-right {
   width: 220px;
   float: right;
+  font-size: 13px;
 }
 
 #body-right h3 {
-  font-family: monospace;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
   font-size: 18px;
 }
 
@@ -93,7 +96,7 @@ a {
 }
 
 .post h1 a {
-  font-family: monospace;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
   color:#000000;
   line-height: 1.1em;
 }
@@ -103,12 +106,10 @@ a {
 }
 
 #rss_subscribe a {
-  background:transparent url(/images/rss.png) no-repeat scroll 0 0;
-  display:block;
+  display: block;
   font-size: 18px;
-  font-weight:bold;
-  height:148px;
-  padding:150px 0 0 10px;
+  font-weight: bold;
+  padding: 10px 0 0 10px;
 }
 
 .post .meta {
