@@ -17,17 +17,21 @@ a {
   width: 900px;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 #body-left {
   width: 650px;
   float: left;
-  margin-top: -30px;
+/*  margin-top: -30px;*/
 }
 
 #body-right {
   width: 220px;
   float: right;
   font-size: 13px;
-  margin-top: -30px;
+/*  margin-top: -30px;*/
 }
 
 #body-right h3 {
@@ -35,9 +39,8 @@ a {
   font-size: 18px;
 }
 
-#title h1 a {
+#title #header h1 a {
   float:left;
-  height:68px;
   letter-spacing:-1px;
   line-height:normal;
   margin:0;
