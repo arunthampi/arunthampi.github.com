@@ -35,13 +35,6 @@ a {
   font-size: 18px;
 }
 
-#title {
-  background: transparent url(/images/header_shadow.gif) repeat-x scroll left bottom;
-  height: 78px;
-  margin: 0 -0.5px 12px 0;
-  padding: 0;
-}
-
 #title h1 a {
   float:left;
   height:68px;
