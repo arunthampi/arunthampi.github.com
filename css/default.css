@@ -1,136 +1,18 @@
-body {
-  font-family: "Bitstream Vera Sans", Helvetica ,sans-serif;
-  font-size: 14px;
-  line-height:22px;
-  background: url("/images/header.png") repeat-x scroll 0 0 #F6F6F8;
-  color: #717180;
+#main {
+  padding-top: 60px;
+  min-height: 640px;
 }
 
-a {
-  color:#0080F0;
-  text-decoration:none;
-}
-
-#site {
+#default-container {
   margin: 0 auto;
-  padding: 0;
-  width: 900px;
 }
 
-a:hover {
-  text-decoration: underline;
+#about h3 {
+  padding-top: 2px;
+  color: #888;
+  font-size: 16px;
 }
 
-#body-left {
-  width: 650px;
-  float: left;
-/*  margin-top: -30px;*/
-}
-
-#body-right {
-  width: 220px;
-  float: right;
-  font-size: 13px;
-/*  margin-top: -30px;*/
-}
-
-#body-right h3 {
-  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  font-size: 18px;
-}
-
-#title #header h1 a {
-  float:left;
-  letter-spacing:-1px;
-  line-height:normal;
-  margin:0;
-  width:295px;
-  margin-top:42px;
-}
-
-#title #header_links {
-  float:right;
-  font-size:14px;
-  font-size-adjust:none;
-  font-stretch:normal;
-  font-style:normal;
-  font-variant:normal;
-  font-weight:normal;
-  line-height:normal;
-  margin:2.35em 0.2em 0 0;
-  padding-top: 18px;
-}
-
-.header_link {
-  background-position:9px 0;
-  background-repeat:no-repeat;
-  float:left;
-  height:20px;
-  padding-left:28px;
-  padding-top:2.5px;
-  text-align:right;
-}
-
-#tw {
-  background-image: url(http://twitter.com/favicon.ico);
-}
-
-#ff {
-  background-image: url(http://friendfeed.com/favicon.ico);
-}
-
-#gh {
-  background-image: url(http://github.com/favicon.ico);
-}
-
-#em {
-  background-image: url(http://mail.google.com/favicon.ico);
-}
-
-.favicon {
-  padding-right: 3px;
-}
-
-.post {
-  margin-bottom: 50px;
-}
-
-.post h1 a {
-  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  color: #717180;
-  line-height: 1.1em;
-}
-
-.post h1 a:hover {
-  color: #808285;
-}
-
-#rss_subscribe a {
-  display: block;
-  font-size: 18px;
-  font-weight: bold;
-  padding: 10px 0 0 10px;
-}
-
-.post .meta {
-  color: #808285;
-}
-
-.code {
-  font-family:Monaco,"Courier New",monospace;
-  font-size:12px;
-  line-height:130%;
-  margin:0;
-  padding:0;  
-}
-
-.image {
-  text-align: center;
-  padding-bottom:15px;
-  padding-top:15px;
-}
-
-div.slide {
-  width: 100%;
-  text-align: center;
+#about h3 strong {
+  text-transform: uppercase;
 }

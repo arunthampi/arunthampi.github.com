@@ -6,55 +6,39 @@
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>{{ page.title }}</title>
    <meta name="author" content="Arun Thampi" />
+   <link href="/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" />
    <link href="/css/default.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/css/globals.css" media="screen" rel="stylesheet" type="text/css" />
    <link rel="alternate" type="application/atom+xml" title="McLovin - Atom" href="http://feeds.feedburner.com/mclovin" />
    <meta name="verify-v1" content="H2MobDzY8glD+MCbudtHDX3ln0Q8MZLhA6Qwvyv2AdE=" />
 </head>
 <body>
 
-<div id="site">
-  <div id="title">
-    <div id="header">
-      <h1><a href="/">mclov.in</a></h1>
-    </div>
-    <div id="header_links">
-      <div class="header_link"><a href="/archives.html">Archives</a></div>
-      <div class="header_link" id="tw"><a href="http://twitter.com/iamclovin" target="_blank">Twitter</a></div>
-      <div class="header_link" id="ff"><a href="http://friendfeed.com/arunthampi" target="_blank">FriendFeed</a></div>
-      <div class="header_link" id="gh"><a href="http://github.com/arunthampi" target="_blank">GitHub</a></div>
-      <div class="header_link" id="em"><a href="mailto:arun.thampi@gmail.com" target="_blank">Email</a></div>
+<div class="topbar" data-scrollspy="scrollspy">
+  <div class="topbar-inner">
+    <div class="container">
+      <a class="brand" href="/">
+        mclov.in
+      </a>
+      <ul class="nav secondary-nav">
+      </ul>
     </div>
   </div>
-  
-  <div id="body-left">
-    {{ content }}
-  </div>
-  
-  <div id="body-right">
-    <h3>About</h3>
-    <p>The author of this blog is a Ruby Developer based in Singapore. Co-Founder of <a href="http://gameplanapp.com" target="_blank">Gameplan</a>, dabbles in <a href="http://www.ruby-lang.org">Ruby</a>, <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a> and anything new and shiny (shininess is mandatory).</p>
-    <p>Loves Mac OS X and the iPhone.</p>
-    <p>Supports Manchester United and is a fan of Mohanlal, Quentin Tarantino, The Coen Brothers and Seth Rogen.</p>
-    <p>Mostly listens to Indian music, but loves The Beatles, The Doors, Guns n' Roses and Dire Straits.</p>
-    <p>The author's pseudonym 'McLovin' is inspired from the <a href="http://www.imdb.com/title/tt0829482/" target="_blank">2007 classic Superbad</a>.</p>
-    <p>I also post occasionally on my <a href="http://posterous.mclov.in">Posterous</a>.</p>
-    
-    <h3>Projects</h3>
-    <ul>
-      <li><a href="http://gameplanapp.com" target="_blank">Gameplan</a></li>
-      <li><a href="http://nakedstartup.com" target="_blank">Naked Startup (blog)</a></li>
-      <li><a href="http://www.moviefuapp.com" target="_blank">MovieFu</a></li>
-      <li><a href="http://www.github.com/arunthampi/icanhazthread" target="_blank">iCanHazThread</a></li>
-      <li><a href="http://www.github.com/arunthampi/activecouch" target="_blank">ActiveCouch</a></li>
-      <li><a href="http://www.github.com/arunthampi/injour" target="_blank">Injour</a></li>
-      <li><a href="http://www.github.com/arunthampi/supermodel" target="_blank">SuperModel</a></li>
-      <li><a href="http://www.github.com/arunthampi/Namaste" target="_blank">Namaste</a></li>      
-      <li><a href="http://epl.github.com" target="_blank">EPL On GitHub</a></li>
-    </ul>
-    <p id="rss_subscribe">
-      <a href="http://feeds.feedburner.com/mclovin">Subscribe to mclov.in</a>
-    </p>
-  </div>
+</div>
+
+<div class="container" id="main">
+  <section id="default">
+    <div class="row">
+      <div class="span4" id="about">
+        <h3>By <strong>Arun Thampi</strong></h3>
+      </div>
+
+      <div class="span12">
+        {{ content }}
+      </div>
+
+    </div>
+  </section>
 </div>
 
 <script type="text/javascript">
@@ -70,15 +54,15 @@ pageTracker._trackPageview();
 <script type="text/javascript">
 //<![CDATA[
 (function() {
-		var links = document.getElementsByTagName('a');
-		var query = '?';
-		for(var i = 0; i < links.length; i++) {
-			if(links[i].href.indexOf('#disqus_thread') >= 0) {
-				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-			}
-		}
-		document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/mclovinsblog/get_num_replies.js' + query + '"></' + 'script>');
-	})();
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+      if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+      }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/mclovinsblog/get_num_replies.js' + query + '"></' + 'script>');
+  })();
 //]]>
 </script>
 

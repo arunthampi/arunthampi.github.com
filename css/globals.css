@@ -1,0 +1,25 @@
+.post {
+  padding-bottom: 30px;
+}
+
+.post p {
+  font-size: 1.4em;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.post p.meta {
+  color: #888;
+  font-size: 1.3em;
+}
+
+.post h1 a {
+  color: #434343;
+}
+
+.post h1 a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
