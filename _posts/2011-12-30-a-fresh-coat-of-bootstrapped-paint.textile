@@ -1,0 +1,14 @@
+---
+layout: post
+title: A Fresh Coat of Bootstrapped Paint
+---
+
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
+p(meta). 30 Dec 2011 - Singapore
+
+Decided to give my blog a fresh coat of <a href="http://twitter.github.com/bootstrap">Bootstrap</a> paint. I used Bootstrap for a small project called <a href="http://muxx.it">muxx.it</a> earlier this month and loved it &mdash; it is definitely one of the best pieces of software to come out this year (especially for design-sense-challenged folks such as myself).
+
+The main reason I wanted to re-design my blog was that I've been meaning to pen a year-end of review of what's been quite a roller-coaster twelve months. I didn't want to publish something on what was quite frankly, an ugly and dated site, and so here we are.
+
+Hopefully I'll get down to writing my year-end review in the next couple of days.
