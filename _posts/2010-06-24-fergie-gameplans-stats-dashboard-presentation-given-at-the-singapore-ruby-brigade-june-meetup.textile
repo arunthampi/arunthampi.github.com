@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fergie - Gameplan's Stats Dashboard: Presentation given at the Singapore Ruby Brigade June Meetup"
+title: "Fergie - Gameplan's Stats Dashboard"
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
