@@ -11,14 +11,4 @@ I gave a quick presentation yesterday at the June installment of the <a href="ht
 
 It was also great to listen to <a href="http://twitter.com/mingyeow">Ming Yeow</a> and his experiences (both the highs and the lows) while building <a href="http://mrtweet.com/">MrTweet</a> as well as experiencing every layer of the 'startup stack' (as he put it) such as product management, fund raising, hiring and networking. For a person who's been three months into a startup, his talk definitely gave some good pointers as well as validation for the processes <a href="http://gameplanapp.com">we've</a> already implemented.
 
-My slides from yesterday are here:
-
-<div style="width:425px" id="__ss_4588089"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/gameplanapp/gameplans-panicinspired-stats-dashboard-called-fergie" title="Gameplan&#39;s Panic-Inspired Stats Dashboard called Fergie">Gameplan&#39;s Panic-Inspired Stats Dashboard called Fergie</a></strong><object id="__sse4588089" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=fergie-100623110637-phpapp01&stripped_title=gameplans-panicinspired-stats-dashboard-called-fergie" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse4588089" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=fergie-100623110637-phpapp01&stripped_title=gameplans-panicinspired-stats-dashboard-called-fergie" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/gameplanapp">Gameplan</a>.</div></div>
-
-So is the video:
-
-<embed src="http://blip.tv/play/AYHo7g8C" type="application/x-shockwave-flash" width="480" height="300" allowscriptaccess="always" allowfullscreen="true"></embed>
-
-And so is Ming Yeow's video:
-
-<embed src="http://blip.tv/play/AYHo6kAC" type="application/x-shockwave-flash" width="480" height="300" allowscriptaccess="always" allowfullscreen="true"></embed>
+My slides from yesterday are <a href="http://www.slideshare.net/gameplanapp/gameplans-panicinspired-stats-dashboard-called-fergie">at Slideshare</a>.
