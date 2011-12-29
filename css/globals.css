@@ -1,3 +1,8 @@
+.meta {
+  color: #888;
+  font-size: 1.3em;
+}
+
 .post {
   padding-bottom: 30px;
 }
@@ -7,11 +12,6 @@
   font-family: Georgia, serif;
   line-height: 1.6;
   margin-bottom: 16px;
-}
-
-.post p.meta {
-  color: #888;
-  font-size: 1.3em;
 }
 
 .post h1 a {
@@ -54,4 +54,14 @@ ul {
 ul li {
   font-size: 1.4em;
   line-height: 1.6;
+}
+
+span.date {
+  font-family: Georgia, serif;
+}
+
+
+ul.posts {
+  padding-top: 20px;
+  font-size: 12px;
 }
