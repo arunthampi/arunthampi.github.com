@@ -23,3 +23,35 @@
   text-decoration: none;
 }
 
+ul.archives {
+  margin-top: 20px;
+}
+
+ul.sidebar-menu {
+  margin-right: 65px;
+  padding-top: 25px;
+}
+
+ul.sidebar-menu li {
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+ul.sidebar-menu li a {
+  color: #434343;
+}
+
+ul.sidebar-menu li a:hover {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+ul li {
+  font-size: 1.4em;
+  line-height: 1.6;
+}

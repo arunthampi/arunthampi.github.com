@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An explanation of the CouchDB view powering i.canhazthread.com's homepage
+title: An explanation of the CouchDB views
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
