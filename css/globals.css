@@ -60,8 +60,11 @@ span.date {
   font-family: Georgia, serif;
 }
 
-
 ul.posts {
   padding-top: 20px;
   font-size: 12px;
+}
+
+#tweet-button {
+  padding: 20px 0 20px 0;
 }
