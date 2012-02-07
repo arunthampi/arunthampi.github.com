@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Path uploads your entire iPhone address book to it's servers
+title: Path uploads your entire iPhone address book to its servers
 ---
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
@@ -9,7 +9,7 @@ p(meta). 8 Feb 2012 - Singapore
 
 <p>It all started innocently enough. I was thinking of implementing a Path Mac OS X app as part of our regularly scheduled <a href="http://dev.anideo.com/2012/01/14/the-inaugural-anideo-hackathon.html">hackathon</a>. Using the awesome mitmproxy tool which was featured on the front page of the Hacker News yesterday, I started to observe the various API calls made to Path's servers from the iPhone app. It all seemed harmless enough until I observed a <code>POST</code> request to <code>https://api.path.com/3/contacts/add</code>.</p>
 
-<p>Upon inspecting closer, I noticed that my <strong>entire address book (including full names, emails and phone numbers) was being sent as a plist to Path</strong>. Now I don't remember having given permission to Path to access my address book and send it's contents to it's servers, so I created a completely new "Path" and repeated the experiment and I got the same result - my address book was in Path's hands.</p>
+<p>Upon inspecting closer, I noticed that my <strong>entire address book (including full names, emails and phone numbers) was being sent as a plist to Path</strong>. Now I don't remember having given permission to Path to access my address book and send its contents to its servers, so I created a completely new "Path" and repeated the experiment and I got the same result - my address book was in Path's hands.</p>
 
 <p><b>Disclaimer:</b> I'm not insinuating that Path is doing something nefarious with my address book but I feel quite violated that my address book is being held remotely on a third-party service. I love Path as an iOS app and I think there are some brilliant people working on it, but this seems a little creepy. I wonder how many other iOS apps actually do the same...</p>
 
