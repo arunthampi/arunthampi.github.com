@@ -13,6 +13,19 @@
   font-size: 16px;
 }
 
+#about h4 {
+  color: #AAA;
+}
+
+#about h4 a {
+  color: #aaa;
+  text-decoration: underline;
+}
+
+#about h4 a:hover {
+  color: #777;
+}
+
 #about h3 strong {
   text-transform: uppercase;
 }
