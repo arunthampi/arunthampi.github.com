@@ -7,6 +7,20 @@ title: Path uploads your entire iPhone address book to its servers
 
 p(meta). 8 Feb 2012 - Singapore
 
+<h3>[Update]</h3>
+
+<p>Dave Morin, the CEO of Path has responded in the comments and I've pasted it below. As an aside &ndash; never in my wildest dreams did I imagine this to blow up like this. I hope we can keep calm and continue to discuss this sensibly.</p>
+
+<blockquote>
+<p>Arun, thanks for pointing this out. We actually think this is an important conversation and take this very seriously. We upload the address book to our servers in order to help the user find and connect to their friends and family on Path quickly and effeciently as well as to notify them when friends and family join Path. Nothing more.</p>
+<p>We believe that this type of friend finding & matching is important to the industry and that it is important that users clearly understand it, so we proactively rolled out an opt-in for this on our Android client a few weeks ago and are rolling out the opt-in for this in 2.0.6 of our iOS Client, pending App Store approval.</p>
+
+<p>Dave Morin</p>
+<p>Co-Founder and CEO of Path</p>
+</blockquote>
+
+<h3>[Original Post]</h3>
+
 <p>It all started innocently enough. I was thinking of implementing a Path Mac OS X app as part of our regularly scheduled <a href="http://dev.anideo.com/2012/01/14/the-inaugural-anideo-hackathon.html">hackathon</a>. Using the awesome mitmproxy tool which was featured on the front page of the Hacker News yesterday, I started to observe the various API calls made to Path's servers from the iPhone app. It all seemed harmless enough until I observed a <code>POST</code> request to <code>https://api.path.com/3/contacts/add</code>.</p>
 
 <p>Upon inspecting closer, I noticed that my <strong>entire address book (including full names, emails and phone numbers) was being sent as a plist to Path</strong>. Now I don't remember having given permission to Path to access my address book and send its contents to its servers, so I created a completely new "Path" and repeated the experiment and I got the same result - my address book was in Path's hands.</p>
