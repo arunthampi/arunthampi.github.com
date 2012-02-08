@@ -21,7 +21,7 @@ p(meta). 8 Feb 2012 - Singapore
 
 <h3>[Original Post]</h3>
 
-<p>It all started innocently enough. I was thinking of implementing a Path Mac OS X app as part of our regularly scheduled <a href="http://dev.anideo.com/2012/01/14/the-inaugural-anideo-hackathon.html">hackathon</a>. Using the awesome mitmproxy tool which was featured on the front page of the Hacker News yesterday, I started to observe the various API calls made to Path's servers from the iPhone app. It all seemed harmless enough until I observed a <code>POST</code> request to <code>https://api.path.com/3/contacts/add</code>.</p>
+<p>It all started innocently enough. I was thinking of implementing a Path Mac OS X app as part of our regularly scheduled <a href="http://dev.anideo.com/2012/01/14/the-inaugural-anideo-hackathon.html">hackathon</a>. Using the awesome <a href="http://mitmproxy.org">mitmproxy</a> tool which was featured on the front page of <a href="https://news.ycombinator.com/item?id=3556688">Hacker News</a> yesterday, I started to observe the various API calls made to Path's servers from the iPhone app. It all seemed harmless enough until I observed a <code>POST</code> request to <code>https://api.path.com/3/contacts/add</code>.</p>
 
 <p>Upon inspecting closer, I noticed that my <strong>entire address book (including full names, emails and phone numbers) was being sent as a plist to Path</strong>. Now I don't remember having given permission to Path to access my address book and send its contents to its servers, so I created a completely new "Path" and repeated the experiment and I got the same result - my address book was in Path's hands.</p>
 
@@ -54,7 +54,7 @@ p(meta). 8 Feb 2012 - Singapore
 <p>This has been tried out on Mac OS X Lion 10.7.2.</p>
 
 <ol>
-  <li>Downloads the <a href="http://mitmproxy.org/">mitmproxy</a> tool and set it up by going to the folder of mitmproxy and running <code>sudo python setup.py install</code>. If all goes well, mitmproxy must be available in your $PATH.</li>
+  <li>Download the <a href="http://mitmproxy.org/">mitmproxy</a> tool and set it up by going to the folder of mitmproxy and running <code>sudo python setup.py install</code>. If all goes well, mitmproxy must be available in your $PATH.</li>
   <li>Start mitmproxy by running <code>mitmproxy</code>.</li>
   <li>Obtain the IP address of your computer by running <code>ifconfig en1</code> (or whatever is the interface that you are using).</li>
   <li>Set the proxy on your iPhone by going to your wireless settings, setting the proxy to be "Manual", and set the IP to be your computer's IP and the port as 8080.</li>
