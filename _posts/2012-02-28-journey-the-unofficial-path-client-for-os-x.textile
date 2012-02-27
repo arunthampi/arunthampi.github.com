@@ -1,0 +1,16 @@
+---
+layout: post
+title: Journey - The Unofficial Path Client for OS X
+---
+
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
+p(meta). 28 Feb 2012 - Singapore
+
+<p>It's taken us a while, but we're happy to announce that the little side project we've been working on &ndash; an <a href="http://journeyformac.com">unofficial Path Client for OS X</a> is live. What's more it is open-source and is available under an MIT License on <a href="http://github.com/JourneyForMac/Journey">GitHub</a>. You can read a more in-depth behind-the-scenes story <a href="http://dev.anideo.com/2012/02/26/introducing-journey-the-unofficial-path-client-for-os-x.html">here</a>.</p>
+
+<p>It's been a challenge working on <a href="http://getdenso.com">Denso</a> as well as this side project, but I had a lot of fun working with <a href="http://twitter.com/raingrove">Peter</a>, <a href="http://twitter.com/ntluan">Kent</a> and <a href="http://twitter.com/ajhit406">AJ</a> on this Journey ;) (no pun intended).</p>
+
+<p>We think the <a href="http://anideo.com">Anideo</a> Hackathon experiment has been a success and we hope to continue to host more hackathons and foster a culture of building good software here in Singapore.</p>
+
+<p>Real Artists Ship.</p>
