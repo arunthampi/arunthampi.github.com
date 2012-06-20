@@ -1,0 +1,19 @@
+---
+layout: post
+title: Introducing Action.IO - A Revolutionary New Cloud Development Platform
+---
+
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
+p(meta). 21 Jun 2012 - Singapore
+
+<p>It's been a crazy few sleepless weeks as we ploughed through some pretty heavy tech problems, but it's finally a reality. We are proud to take the covers off <a href="https://www.action.io">Action.IO</a>. It's days like these which make it all worth it, as I sit here with my friends at 3AM basking in all the love that we're getting from our fellow developers. It is truly humbling.</p>
+
+<p>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9GIylBBh2zk?rel=0" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p>We have some amazing stories to tell about all the code that has gone into action.io, but that is for another day. In the meantime, take a look at this walkthrough video, and sign up to be part of the future.</p>
+
+<p>Also, would really appreciate some <a href="http://news.ycombinator.com">Hacker News love</a> for our story (look for action.io on the homepage)</p>
+
