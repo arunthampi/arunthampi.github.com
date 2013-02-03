@@ -3,9 +3,10 @@ layout: post
 title: The similarity between the iPhone in 2010 and Ruby On Rails in 2007
 ---
 
-<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+# [{{ page.title }}]({{ page.url }})
 
-p(meta). 30 Apr 2010 - Singapore
+30 Apr 2010 - Singapore
+{: .meta }
 
 The whole brouhaha about the openness (or lack thereof) of Apple and its evilness has had me confused for a while now. On the one hand, I really admire Apple's gumption in taking on the behemoth that was the mobile phone industry, turning it around and winning in the marketplace because of its sheer awesomeness. On the other hand, the closed nature of the AppStore, the haphazard way in which Apple rejects apps and it's borderline anti-competitive stance against Adobe and languages which are neither C or C++ have gone against the principles of openness of the Web - principles I firmly believe in.
 

@@ -2,13 +2,14 @@
 layout: default
 title: All of McLovin's Ramblings
 ---
-<h2 id="intro">{{ page.title }}</h2>
 
-<div class="post">
-  <ul class="archives">
+<h1 id="intro">{{ page.title }}</h1>
+
+<div class="archives">
+  <ul class="posts-summary">
   {% for post in site.posts %}
     <li>
-      <span class="date">{{ post.date | date: "%b %d, %Y" }}</span> &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="meta">{{ post.date | date: "%b %d, %Y" }} &mdash; </span><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
   </ul>
