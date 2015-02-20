@@ -1,4 +1,4 @@
 auto: true
-markdown: maruku
+markdown: redcarpet
 exclude:
   - Rakefile
