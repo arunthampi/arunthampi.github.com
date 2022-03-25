@@ -27,7 +27,7 @@ Envoy’s Continuous Integration pipeline.
 installed by > 2K Slack teams, reached > 100K users, served > 1M requests.
 * Architected and built Botmetrics — an analytics and engagement platform for
 conversational UI that scaled from 0-250M events, segmented >1M users and sent
-1M automated notifications. (Sold to Howdy.AI)
+1M automated notifications. (Sold to [Howdy.AI](https://techcrunch.com/2017/07/11/bot-metrics-howdy/) which was later [acquired by Microsoft](https://www.businessinsider.com/microsoft-acquires-xoxco-howdy-slack-2018-11))
 * Managed team of remote contractors to build out parts of Botmetrics — product
 spec, software architecture and code review.
 
