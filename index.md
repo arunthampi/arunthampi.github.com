@@ -7,7 +7,7 @@ Hi 👋🏽 I love building delightful products and platforms for developers wit
 
 You can also find me on [Twitter](https://twitter.com/iamclovin), [Github](https://github.com/arunthampi) and [LinkedIn](https://linkedin.com/in/arunthampi).
 
-🧑🏽‍💻 I've worked as a software engineer as well as started a couple of companies. Read more [here](/work.html).
+🧑🏽‍💻 I've worked as a software engineer as well as started two companies (sold one). Read more [here](/work.html).
 
 ✍🏽 I've written occassionally on this [blog](/archives.html) as well as on [Medium](https://medium.com/@iamclovin). Fun fact: a post I wrote in 2012 triggered a [Congressional inquiry](https://butterfield.house.gov/media-center/press-releases/ranking-members-waxman-and-butterfield-want-answers-from-apple-on-iphone)!
 

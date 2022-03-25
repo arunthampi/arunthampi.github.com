@@ -11,11 +11,12 @@ section: writing
       {% if year %}
       </ul>
       {% endif %}
-      <h2>{{ currentyear }}</h2>
+      <h4>{{ currentyear }}</h4>
+      <hr/>
       <ul class="posts-in-year">
       {% capture year %}{{currentyear}}{% endcapture %} 
     {% endif %}
-      <li><p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%B %d" }}</p></li>
+      <li>{{ post.date | date: "%B %d" }} &mdash; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
 </div>
