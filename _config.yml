@@ -3,6 +3,7 @@ markdown: kramdown
 remote_theme: pages-themes/modernist@v0.2.0
 title: arun thampi
 description: is it still time to build?
+mailchimp-list: 'https://mclov.us14.list-manage.com/subscribe/post?u=8bfe8d49120256643a88101d3&amp;id=3276327304'
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 exclude:
