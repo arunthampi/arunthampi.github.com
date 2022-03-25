@@ -23,6 +23,3 @@ If you'd like to follow along with what I'm working on, please subscribe to my b
         <input type="submit" value="Subscribe" name="subscribe" class="heart">
     </div>
 </form>
-
-<style>
-</style>
