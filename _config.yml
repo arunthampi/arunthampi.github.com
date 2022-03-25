@@ -2,6 +2,7 @@ auto: true
 markdown: kramdown
 remote_theme: pages-themes/modernist@v0.2.0
 title: arun thampi
+description: is it still time to build?
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 exclude:
