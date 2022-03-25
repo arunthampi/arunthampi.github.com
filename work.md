@@ -38,7 +38,11 @@ spec, software architecture and code review.
 engineers across San Francisco and Singapore.
 * Architected and built cloud-based dev environment as a service across all AWS
 regions that scaled to 300K developers across the world.
-Director/CTO, anideo.com; Singapore — Feb 2011 - May 2012
+
+
+#### Director/CTO At [Anideo](http://anideo.com); Singapore — Feb 2011 - May 2012
+* * *
+
 * Led engineering team that built three iOS apps (messaging app for live events,
 photo downloading software for Facebook and a video aggregation app) along with
 scalable web backends that served all three apps.
