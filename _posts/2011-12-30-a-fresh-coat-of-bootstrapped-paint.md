@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Fresh Coat of Bootstrapped Paint
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 30 Dec 2011 - Singapore
-{: .meta }
 
 Decided to give my blog a fresh coat of [Bootstrap](http://twitter.github.com/bootstrap) paint. I used Bootstrap for a small project called [muxx.it](http://muxx.it) earlier this month and loved it &mdash; it is definitely one of the best pieces of software to come out this year (especially for design-sense-challenged folks such as myself).
 

@@ -1,12 +1,13 @@
 --- 
 layout: post
 title: EventedNet - A new way to make evented HTTP calls in Ruby
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 19 Aug 2008 - Singapore
-{: .meta }
 
 I caught the 'evented' bug last week when I started poking around EventMachine for an internal EventMachine based library at [work](http://www.wego.com). Basically, I wanted an HTTP library which could be used in an evented fashion while being used in an EventMachine reactor, and in the boring synchronous way, when used outside the reactor. Why do I want this, you ask? Well, the primary reason is that the HTTP client that I am writing should be able to run normally without an EventMachine reactor (for me to test out individually, write specs for, etc) but once it is used in an EventMachine reactor, it should get all the [benefits of using the Deferred pattern](http://igvita.com/2008/05/27/ruby-eventmachine-the-speed-demon).
 

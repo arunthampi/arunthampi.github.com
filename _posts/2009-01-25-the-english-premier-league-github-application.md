@@ -1,12 +1,13 @@
 --- 
 layout: post
 title: The English Premier League GitHub Application
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 25 Jan 2009 - Singapore
-{: .meta }
 
 After half a day's worth of data-gathering and HTML/CSS/Javascript, I present to you: the [EPL GitHub App](http://epl.github.com).
 

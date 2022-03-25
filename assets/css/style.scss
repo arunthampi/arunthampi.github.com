@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+    .subsection-without-link {
+        opacity: 65%;
+    }
+    .subsection-with-link {
+        opacity: 80%;
+    }
+}
+
+h4, hr {
+    margin: 0 0 10px;
+}
+
+section {
+    font-size: 18px;
+}

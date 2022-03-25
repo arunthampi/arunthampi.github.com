@@ -1,12 +1,13 @@
 --- 
 layout: post
 title: How To Use CouchDB/ActiveCouch with Ruby On Rails
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 26 Oct 2008 - Singapore
-{: .meta }
 
 I was going to blog about this, but thought it might be better to link to a wiki, which will be easier to update depending on when changes are made, or errors that are discovered.
 

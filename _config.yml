@@ -1,4 +1,8 @@
 auto: true
-markdown: redcarpet
+markdown: kramdown
+remote_theme: pages-themes/modernist@v0.2.0
+title: arun thampi
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 exclude:
   - Rakefile

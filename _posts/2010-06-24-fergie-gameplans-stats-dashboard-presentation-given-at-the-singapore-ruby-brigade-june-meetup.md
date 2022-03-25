@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Fergie - Gameplan's Stats Dashboard"
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 24 Jun 2010 - Singapore
-{: .meta }
 
 I gave a quick presentation yesterday at the June installment of the [Singapore Ruby Brigade](http://groups.google.com/group/singapore-rb) held at [HackerspaceSG](http://hackerspace.sg/). As always, SRB is a great place to meet people and catch up with all the great work that's going on here. Many thanks to [Jason](http://twitter.com/jasonong) for organising the monthly meetups and to Zhenyi for his camerawork yesterday which has brought SRB June online.
 

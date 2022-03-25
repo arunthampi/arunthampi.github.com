@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Two tidbits from first three days of building Gameplan
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 6 Apr 2010 - Singapore
-{: .meta }
 
 So as you may or may not know, [Andy](http://andycroll.com) and I are building [Gameplan](http://gameplanapp.com) (which, to paraphrase [Jon Stewart](http://thedailyshow.com) will be the best *expletive* sports league management software on the planet). We've already started in great earnest, and we're looking forward to kicking on and making lots of progress. By the way, we are chronicling our progress at [Naked Startup](http://nakedstartup.com).
 

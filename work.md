@@ -1,57 +1,57 @@
 ---
 layout: default
-title: McLovin's Work
+title: Projects / Companies I have worked on
+section: work
 ---
 
-# {{ page.title }}
-{: #intro }
+#### Senior Software Engineer at [Apple](https://apple.com) (Sep 2018 &mdash; present)
+* * *
 
-+--
+* Working on a more private Siri that works offline and on your device.
 
-This is not a complete list but it reflects the products that I'm the most proud of (in reverse chronological order):
+#### Tech Lead at [Envoy](https://envoy.com) (May 2017 &mdash; Aug 2018)
+* * *
 
-## Action.IO
-  This is the most ambitious project I've been part of and I'm
-  proud to be doing this with some incredibly talented people who also
-  happen to be my close friends. From what was just a random idea in
-  March 2012 to being a company building a platform-as-a-service that will
-  change the way developers work, it's been an incredible journey so far
-  and long may it continue. I work mostly on the backend/ops side of
-  things and working with/on some great tools such as ansible, node.js,
-  sensu, graphite, ec2, rails, redis and others.
+* Part of two-person team that built a notifications service in Elixir that powers
+handle millions of notifications (Email, SMS, Slack and so on) per day.
+* Led team of four to overhaul Envoy’s authentication system without any downtime
+for any of the various clients (web, iOS and Android)
+* Champion of Docker-izing Envoy’s infrastructure and introducing Docker as part of
+Envoy’s Continuous Integration pipeline.
 
-## Journey (Path for Mac)
-  The original intent was to do something cool
-during our weekly hackathon and build a Mac app for Path. The
-result was a week long drama that eventually triggered a
-Congressional hearing about privacy in mobile social networks. We
-persevered nonetheless, built a sweet little Mac app, visited
-Path's swanky office in San Francisco and met the team.
 
-## Denso/Vidyou
-  What started off as a hackathon project in May 2011
-became a promising product - ultimately it proved to be an idea
-which was outside our wheelhouse especially when it involved such old
-chestnuts such as content licensing, fighting copyright
-infringement claims and the like. This was my first foray into
-building a truly social app on multiple platforms such as the web, iOS
-and Android. With a little more luck the product would have been a part
-of a bigger media entity but it wasn't to be.
+#### Co-Founder/CEO at [Ze Robot Labs](https://zerobotlabs.com) (Jan 2015 &mdash; May 2017)
+* * *
 
-## Today's News
-  This will hold a special place in my heart as my
-first serious iOS app. The concept was heavily inspired by Simon
-Gyford's Today's Guardian, and the app eventually had legs to be a
-mini-publishing platform. I invested a lot of time to get
-performance just right on both the ipad and the iPhone and the end
-result was our first tech crunch coverage.
+* Architected and built Nestor — a programmable Slack Bot (with AWS Lambda) —
+installed by > 2K Slack teams, reached > 100K users, served > 1M requests.
+* Architected and built Botmetrics — an analytics and engagement platform for
+conversational UI that scaled from 0-250M events, segmented >1M users and sent
+1M automated notifications. (Sold to Howdy.AI)
+* Managed team of remote contractors to build out parts of Botmetrics — product
+spec, software architecture and code review.
 
-## Wego.com
-  This was another ambitious project where we converted an
-aging and unscalable j2EE app and built a modern, modular app
-powered by rails on the front end and plenty of ruby services on the
-backend. I did make a few bad decisions in hindsight but I had a
-blast building a complex app in time for the big wego.com
-rebranding in May 2008 with some great people.
+#### Co-Founder/VP Engineering at [Nitrous](https://nitrous.io) (Jun 2012 &mdash; Dec 2014)
+* * *
 
-=-- {: .post }
+* Led fund-raising ($7.65M raised) and built the engineering organization to 15
+engineers across San Francisco and Singapore.
+* Architected and built cloud-based dev environment as a service across all AWS
+regions that scaled to 300K developers across the world.
+Director/CTO, anideo.com; Singapore — Feb 2011 - May 2012
+* Led engineering team that built three iOS apps (messaging app for live events,
+photo downloading software for Facebook and a video aggregation app) along with
+scalable web backends that served all three apps.
+
+#### Director/CTO at [Deepcalm](https://deepcalm.com) (Apr 2010 &mdash; Feb 2011)
+* * *
+
+* Built a web app to schedule amateur sports leagues and one of the first newsreader
+iOS apps with a backend that handled traffic from major press coverage.
+
+#### Software Engineer at [Wego](https://wego.com) (Jan 2007 &mdash; Mar 2010)
+* * *
+
+* Engineer#4 of a young team that built the biggest travel meta-search product in
+Asia. Part of team that re-architected the app from a monolithic Java app to a
+distributed architecture with a Rails frontend and a Java processing backend.
