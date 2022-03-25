@@ -6,8 +6,10 @@ description: >-
 date: '2016-04-01T18:11:04.490Z'
 categories: []
 keywords: []
-slug: /@iamclovin/announcing-the-new-nestor-180131f7a315
+layout: post
 ---
+
+## Announcing the New Nestor
 
 I’m proud to take the covers off the new avatar of Nestor — it’s a programmable Slack Bot that supercharges your team. Nestor comes with a bunch of super powers that enable your team to get productive immediately (so Heroku, Mixpanel, CircleCI, Github, Papertrail, Librato and [more](https://www.asknestor.me/powers)!)
 

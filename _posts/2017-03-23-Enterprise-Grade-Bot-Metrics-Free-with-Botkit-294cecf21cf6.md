@@ -9,6 +9,8 @@ keywords: []
 layout: post
 ---
 
+## Enterprise Grade Bot Metrics Free with Botkit
+
 [Botkit](https://github.com/howdyai/botkit) has arguably been the best way to build bots on multiple platforms, ever since it’s launch. With over 125 contributors and tens of 1000’s of bot-makers using Botkit to power their bots, it has become synonymous with the bot revolution.
 
 As a bot maker, the next step after you’ve built your bot is find out how many users you’re getting each day, what they’re are saying to your bot, and to see how many of them are reaching the “conversion point” in your Bot’s flow.

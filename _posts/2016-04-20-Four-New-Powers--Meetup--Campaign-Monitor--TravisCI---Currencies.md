@@ -6,9 +6,10 @@ description: >-
 date: '2016-04-20T14:42:28.574Z'
 categories: []
 keywords: []
-slug: >-
-  /@iamclovin/four-new-powers-meetup-campaign-monitor-travisci-currencies-d9db6494d710
+layout: post
 ---
+
+## Four New Powers: Meetup, Campaign Monitor, TravisCI & Currencies
 
 Nestor gets four new powers this week and we’re excited to get them in the hands of our users.
 

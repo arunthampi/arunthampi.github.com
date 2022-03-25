@@ -6,8 +6,10 @@ description: >-
 date: '2016-09-23T22:22:20.324Z'
 categories: []
 keywords: []
-slug: /@iamclovin/meet-the-makers-2-rabi-gupta-evabot-ec880f911290
+layout: post
 ---
+
+## Meet The Makers #2: Rabi Gupta & Evabot
 
 **Arun Thampi:** Hi, everyone. Welcome to another edition of [BotMetrics](https://www.getbotmetrics.com): Meet the Makers. My name is Arun. I’m one of the co-founders of BotMetrics. Today we’ll be speaking to Rabi Gupta, who is one of the co-founders of Eva bot, which is a gifting bot based out of San Francisco. Hi, Rabi.
 

@@ -6,8 +6,10 @@ description: >-
 date: '2016-04-13T14:46:54.528Z'
 categories: []
 keywords: []
-slug: /@iamclovin/nestor-gets-a-brain-and-two-new-powers-8c65ffab3e7d
+layout: post
 ---
+
+## Nestor Gets a Brain and Two New Powers!
 
 Nestor so far has been like Leonard Shelby from Memento — great in the moment but not so great at remembering things. Not any more!
 

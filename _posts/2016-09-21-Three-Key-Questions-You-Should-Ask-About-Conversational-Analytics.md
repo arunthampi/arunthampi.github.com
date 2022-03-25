@@ -6,9 +6,10 @@ description: >-
 date: '2016-09-21T18:29:52.839Z'
 categories: []
 keywords: []
-slug: >-
-  /@iamclovin/3-key-questions-you-should-ask-about-conversational-analytics-787f9bb68f3a
+layout: post
 ---
+
+## Three Key Questions You Should Ask About Conversational Analytics
 
 The fine folks at [Azumo](http://azumo.co) hosted a bot maker meet-up at Galvanize San Francisco, led by [Azumo’s](http://www.azumo.co) CEO [Andrew Burgert](https://twitter.com/andrewburgert) on September 15th 2016. They invited conversational analytics providers to a panel to discuss the state of analytics for this emergent industry.
 

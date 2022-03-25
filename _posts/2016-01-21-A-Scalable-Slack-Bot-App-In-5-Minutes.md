@@ -9,6 +9,8 @@ keywords: []
 layout: post
 ---
 
+## A Scalable Slack Bot App in 5 Minutes
+
 2016 has been declared as the “[year of the bots](https://www.theinformation.com/on-bots-conversational-apps-and-fin)” and with bots declared as the [next frontier in software distribution](http://www.usatoday.com/story/tech/news/2015/12/28/future-messaging-app-spells-end-google-we-know/77847504/), creating scalable bot apps has become an increasingly important skill to have in the developer’s toolkit. This post goes through how you can write a massively scalable Slack Bot App in 5 minutes.
 
 ![](https://cdn-images-1.medium.com/max/800/1*QJvYBHNfExHuLH6HB2sFTA.jpeg)

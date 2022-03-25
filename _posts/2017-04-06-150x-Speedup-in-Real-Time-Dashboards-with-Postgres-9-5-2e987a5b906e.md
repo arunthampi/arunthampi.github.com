@@ -7,9 +7,9 @@ date: '2017-04-06T15:02:00.828Z'
 categories: []
 keywords: []
 layout: post
-slug: >-
-  /@iamclovin/150x-speedup-in-real-time-dashboards-with-postgres-9-5-2e987a5b906e
 ---
+
+150x Speedup in Real-Time Dashboards with Postgres 9.5
 
 ![](https://cdn-images-1.medium.com/max/800/1*IjJkMCJkhJ0ChzIe8aKfkw.jpeg)
 

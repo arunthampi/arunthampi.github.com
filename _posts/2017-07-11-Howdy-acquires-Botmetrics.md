@@ -8,6 +8,8 @@ slug: /@iamclovin/howdy-acquires-botmetrics-35a6bd5febb1
 layout: post
 ---
 
+## Howdy acquires Botmetrics
+
 We’re excited to announce today that [Howdy](https://www.howdy.ai) is acquiring [Botmetrics](https://www.getbotmetrics.com)!
 
 ![](https://cdn-images-1.medium.com/max/800/1*6dI33C8xcEHBUoxgYqEzCQ.png)

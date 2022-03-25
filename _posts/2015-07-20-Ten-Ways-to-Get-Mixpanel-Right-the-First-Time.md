@@ -9,6 +9,8 @@ keywords: []
 layout: post
 ---
 
+## Ten Ways to Get Mixpanel Right the First Time
+
 Measuring what your users are doing on your site is an important part of the product building process. While almost all of us use Google Analytics as the de-facto analytics solution for our apps — it has a few limitations that some newer players address. [Mixpanel](https://mixpanel.com) is one such analytics solution that focuses on the actions that a user takes (events) as opposed to the ‘page-view’ centric approach that Google Analytics takes.
 
 With a detailed insight into user actions, you can tailor your messaging, figure out what features are working and which ones need tweaking and, come up with a better on-boarding process for your users. Mixpanel also offers ways for you to communicate with your users (both via e-mail as well as in-app notifications) based on the actions that a user has or has not taken.

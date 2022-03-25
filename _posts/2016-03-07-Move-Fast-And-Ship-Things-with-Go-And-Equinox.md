@@ -9,6 +9,8 @@ keywords: []
 layout: post
 ---
 
+## Move Fast & Ship Things with Go & Equinox
+
 One of my favorite features of the Go programming language is that you can distribute executable binaries of your software that users can download and run without installing huge VMs such as Ruby, Python and Node.JS; thus removing huge barriers for adoption.
 
 With Go 1.5, cross-compilation is built in to the compiler which means that you can compile your Go program on OS X for Windows, Linux and of course OS X.

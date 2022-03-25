@@ -6,9 +6,10 @@ description: >-
 date: '2016-09-07T22:51:06.678Z'
 categories: []
 keywords: []
-slug: >-
-  /@iamclovin/level-up-your-bot-dashboards-bot-metrics-launches-rich-metrics-43dfd8db5bba
+layout: post
 ---
+
+## Level Up Your Bot Dashboards: Bot Metrics Launches Rich Metrics
 
 As bot makers, we know how important it is to use the rich interfaces that each platform provides to drive user engagement. Some bots ask users to send their location, others user photographs to capture information in a picture yet others are starting to use audio.
 

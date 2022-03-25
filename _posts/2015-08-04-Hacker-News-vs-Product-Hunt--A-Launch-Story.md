@@ -7,13 +7,7 @@ keywords: []
 layout: post
 ---
 
-  
-
-## vs
-
-## Product Hunt
-
-### A Launch Story
+## Hacker News vs Product Hunt &mdash; A Launch Story
 
 On July 15th 2015, [Nestor](https://asknestor.me) was launched to the public on Hacker News and Product Hunt. The launch was a success with hundreds and hundreds of teams signing up to use Nestor serving tens of thousands of users. This post analyzes the launch strategy as well as the **_million dollar question_** — where should you launch: Hacker News or Product Hunt?
 

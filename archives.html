@@ -1,15 +1,19 @@
 ---
 layout: default
 title: All of McLovin's Ramblings
-section: archives
+section: writing
 ---
 
 <div class="archives">
-  <ul class="posts-summary">
-    {% for post in site.posts %}
-    <li>
-      <span class="meta">{{ post.date | date: "%b %d, %Y" }} &mdash; </span><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+  {% for post in site.posts %}
+    {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if currentyear != year %}
+      <h2>{{ currentyear }}</h2>
+      <hr/>
+      {% capture year %}{{currentyear}}{% endcapture %} 
+    {% endif %}
+    <ul class="posts-in-year">
+      <li><p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}    </a> &mdash; {{ post.date | date: "%B %d" }}</p></li>
+    </ul>
   {% endfor %}
-  </ul>
 </div>

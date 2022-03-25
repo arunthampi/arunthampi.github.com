@@ -6,8 +6,10 @@ description: >-
 date: '2016-10-06T16:37:48.132Z'
 categories: []
 keywords: []
-slug: /@iamclovin/meet-the-makers-3-stefan-kojouharov-e93e7c45f334
+layout: post
 ---
+
+## Meet The Makers #3: Stefan Kojouharov
 
 In this week’s edition of [Botmetrics](https://www.getbotmetrics.com) Meet The Makers, we speak to [Stefan Kojouharov](https://twitter.com/kojouharov), who is a serial entrepreneur and has built many successful bots, the most recent one being [Smart Notes](https://m.me/smartnotesbot).
 

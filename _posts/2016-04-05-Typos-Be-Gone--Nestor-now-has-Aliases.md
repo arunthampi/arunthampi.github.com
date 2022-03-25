@@ -6,8 +6,10 @@ description: >-
 date: '2016-04-05T14:30:19.839Z'
 categories: []
 keywords: []
-slug: /@iamclovin/typos-be-gone-nestor-now-has-aliases-3f2a4894f28e
+layout: post
 ---
+
+## Typos Be Gone: Nestor now has Aliases
 
 One of the common frustrations we’ve felt with [Nestor](https://www.asknestor.me) (along with a few others who’ve voiced this feedback) is having to type out long commands and occasionally making typos and thus causing Nestor not to understand what you’re saying.
 
