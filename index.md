@@ -11,4 +11,4 @@ You can also find me on [Twitter](https://twitter.com/iamclovin), [Github](https
 
 ✍🏽 I've written occassionally on this [blog](/archives.html) as well as on [Medium](https://medium.com/@iamclovin). Fun fact: a post I wrote in 2012 triggered a [Congressional inquiry](https://butterfield.house.gov/media-center/press-releases/ranking-members-waxman-and-butterfield-want-answers-from-apple-on-iphone)!
 
-📢 My work has been covered by the press on [many occassions](/press.html).
+📢 My work has been covered by the press on [many occasions](/press.html).
