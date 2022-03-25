@@ -8,11 +8,14 @@ section: writing
   {% for post in site.posts %}
     {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
     {% if currentyear != year %}
-      <h3>{{ currentyear }}</h3>
+      {% if year %}
+      </ul>
+      {% endif %}
+      <h2>{{ currentyear }}</h2>
+      <ul class="posts-in-year">
       {% capture year %}{{currentyear}}{% endcapture %} 
     {% endif %}
-    <ul class="posts-in-year">
-      <li><p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}    </a> &mdash; {{ post.date | date: "%B %d" }}</p></li>
-    </ul>
+      <li><p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%B %d" }}</p></li>
   {% endfor %}
+  </ul>
 </div>
