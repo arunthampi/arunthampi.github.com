@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+    .subsection {
+        opacity: 65%;
+    }
+}
+
+h4, hr {
+    margin: 0 0 10px;
+}

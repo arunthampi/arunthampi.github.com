@@ -1,6 +1,7 @@
 ---
 layout: default
 title: McLovin's Work
+section: work
 ---
 
 #### Senior Software Engineer at [Apple](https://apple.com) (Sep 2018 &mdash; present)
@@ -19,7 +20,7 @@ for any of the various clients (web, iOS and Android)
 Envoy’s Continuous Integration pipeline.
 
 
-#### Co-Founder/CEO at [zerobotlabs.com](https://zerobotlabs.com) (Jan 2015 &mdash; May 2017)
+#### Co-Founder/CEO at [Ze Robot Labs](https://zerobotlabs.com) (Jan 2015 &mdash; May 2017)
 * * *
 
 * Architected and built Nestor — a programmable Slack Bot (with AWS Lambda) —
@@ -30,7 +31,7 @@ conversational UI that scaled from 0-250M events, segmented >1M users and sent
 * Managed team of remote contractors to build out parts of Botmetrics — product
 spec, software architecture and code review.
 
-#### Co-Founder/VP Engineering at [Nitrous.IO](https://nitrous.io) (Jun 2012 &mdash; Dec 2014)
+#### Co-Founder/VP Engineering at [Nitrous](https://nitrous.io) (Jun 2012 &mdash; Dec 2014)
 * * *
 
 * Led fund-raising ($7.65M raised) and built the engineering organization to 15
@@ -42,7 +43,7 @@ Director/CTO, anideo.com; Singapore — Feb 2011 - May 2012
 photo downloading software for Facebook and a video aggregation app) along with
 scalable web backends that served all three apps.
 
-#### Director/CTO at [deepcalm.com](https://deepcalm.com) (Apr 2010 &mdash; Feb 2011)
+#### Director/CTO at [Deepcalm](https://deepcalm.com) (Apr 2010 &mdash; Feb 2011)
 * * *
 
 * Built a web app to schedule amateur sports leagues and one of the first newsreader
