@@ -1,6 +1,6 @@
 ---
 layout: default
-title: McLovin's Work
+title: Projects / Companies I have worked on
 section: work
 ---
 
