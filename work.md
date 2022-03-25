@@ -40,7 +40,7 @@ engineers across San Francisco and Singapore.
 regions that scaled to 300K developers across the world.
 
 
-#### Director/CTO At [Anideo](http://anideo.com); Singapore — Feb 2011 - May 2012
+#### Director/CTO At [Anideo](http://anideo.com) (Feb 2011 &mdash; May 2012)
 * * *
 
 * Led engineering team that built three iOS apps (messaging app for live events,
