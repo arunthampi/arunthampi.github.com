@@ -40,14 +40,14 @@ engineers across San Francisco and Singapore.
 regions that scaled to 300K developers across the world.
 
 
-#### Director/CTO At [Anideo](http://anideo.com) (Feb 2011 &mdash; May 2012)
+#### CTO At [Anideo](http://anideo.com) (Feb 2011 &mdash; May 2012)
 * * *
 
 * Led engineering team that built three iOS apps (messaging app for live events,
 photo downloading software for Facebook and a video aggregation app) along with
 scalable web backends that served all three apps.
 
-#### Director/CTO at [Deepcalm](https://deepcalm.com) (Apr 2010 &mdash; Feb 2011)
+#### CTO at [Deepcalm](https://deepcalm.com) (Apr 2010 &mdash; Feb 2011)
 * * *
 
 * Built a web app to schedule amateur sports leagues and one of the first newsreader
