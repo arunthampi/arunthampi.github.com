@@ -4,11 +4,14 @@ description: New Era in for Enterprise Grade Bots
 date: '2017-07-11T17:09:39.962Z'
 categories: []
 keywords: []
-slug: /@iamclovin/howdy-acquires-botmetrics-35a6bd5febb1
+section: writing
+section_link: '/archives.html'
 layout: post
 ---
 
-## Howdy acquires Botmetrics
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 We’re excited to announce today that [Howdy](https://www.howdy.ai) is acquiring [Botmetrics](https://www.getbotmetrics.com)!
 

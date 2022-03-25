@@ -22,11 +22,19 @@
         <h1>
           <a href="/">{{ site.title | default: site.github.repository_name }}</a>
           {% if page.section %}
-          <span class="subsection">
-            &nbsp;/&nbsp;
-            {{ page.section }}
+            {% if page.section_link %}
+              <span class="subsection-with-link">
+                &nbsp;/&nbsp;
+                <a href="{{ page.section_link }}">{{ page.section }}</a>
+                &nbsp;/&nbsp;
+              </span>
+            {% else %}
+              <span class="subsection-without-link">
+                &nbsp;/&nbsp;
+                {{ page.section }}
+              </span>
             {% endif %}
-          </span>
+          {% endif %}
         </h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>

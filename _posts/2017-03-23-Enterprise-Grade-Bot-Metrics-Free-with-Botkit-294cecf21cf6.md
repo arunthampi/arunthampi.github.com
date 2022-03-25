@@ -7,9 +7,13 @@ date: '2017-03-23T19:41:17.760Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Enterprise Grade Bot Metrics Free with Botkit
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 [Botkit](https://github.com/howdyai/botkit) has arguably been the best way to build bots on multiple platforms, ever since it’s launch. With over 125 contributors and tens of 1000’s of bot-makers using Botkit to power their bots, it has become synonymous with the bot revolution.
 

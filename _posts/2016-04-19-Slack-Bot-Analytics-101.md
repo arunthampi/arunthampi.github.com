@@ -5,9 +5,13 @@ description: >-
   last couple of months, bots have been proclaimed to save us…
 date: '2016-04-19T16:14:43.997Z'
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Slack Bot Analytics 101
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 Bots are all the rage now and if you haven’t been living under a rock for the last couple of months, bots have been proclaimed to save us from the tyranny of apps; create new platforms for VCs to invest in and probably bring about world peace. But in all this excitement, the fundamentals of product development still remain intact:
 

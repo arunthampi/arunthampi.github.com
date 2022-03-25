@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Path uploads your entire iPhone address book to its servers
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 8 Feb 2012 - Singapore
-{: .meta }
 
 ### Update #2
 Path has released a [new version](http://itunes.apple.com/us/app/path/id403639508?mt=8) of the app which asks for permission before it sends your address book to its servers and has [blogged](http://blog.path.com/post/17274932484/we-are-sorry) about the episode.

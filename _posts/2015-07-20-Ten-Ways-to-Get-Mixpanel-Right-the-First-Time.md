@@ -7,9 +7,13 @@ date: '2015-07-20T05:00:36.363Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Ten Ways to Get Mixpanel Right the First Time
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 Measuring what your users are doing on your site is an important part of the product building process. While almost all of us use Google Analytics as the de-facto analytics solution for our apps — it has a few limitations that some newer players address. [Mixpanel](https://mixpanel.com) is one such analytics solution that focuses on the actions that a user takes (events) as opposed to the ‘page-view’ centric approach that Google Analytics takes.
 

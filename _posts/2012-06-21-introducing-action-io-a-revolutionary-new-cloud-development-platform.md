@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Introducing Action.IO - A Revolutionary New Cloud Development Platform
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 21 Jun 2012 - Singapore
-{: .meta }
 
 It's been a crazy few sleepless weeks as we ploughed through some pretty heavy tech problems, but it's finally a reality. We are proud to take the covers off [Action.IO](https://www.action.io). It's days like these which make it all worth it, as I sit here with my friends at 3AM basking in all the love that we're getting from our fellow developers. It is truly humbling.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: An explanation of the CouchDB views
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 31 Aug 2009 - Singapore
-{: .meta }
 
 Just wanted to pen this down so that I don't forget the logic behind the map-reduce function used to generate the content for [i.canhazthread.com](http://i.canhazthread.com) homepage.
 

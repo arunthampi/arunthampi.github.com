@@ -7,9 +7,13 @@ date: '2016-04-20T14:42:28.574Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Four New Powers: Meetup, Campaign Monitor, TravisCI & Currencies
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 Nestor gets four new powers this week and we’re excited to get them in the hands of our users.
 

@@ -7,9 +7,13 @@ date: '2016-04-05T14:30:19.839Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Typos Be Gone: Nestor now has Aliases
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 One of the common frustrations we’ve felt with [Nestor](https://www.asknestor.me) (along with a few others who’ve voiced this feedback) is having to type out long commands and occasionally making typos and thus causing Nestor not to understand what you’re saying.
 

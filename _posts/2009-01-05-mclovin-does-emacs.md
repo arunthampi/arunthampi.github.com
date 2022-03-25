@@ -1,12 +1,13 @@
 --- 
 layout: post
 title: Mclovin does Emacs
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 05 Jan 2009 - Singapore
-{: .meta }
 
 As part of my New Years Resolution to increase my overall productivity and be more disciplined (generally in life), I've been experimenting with a couple of text-editors. Tried out vim first because I was quite familiar with it, but it didn't promise the paradigm-shift that I was expecting to happen in my work-flow.
 

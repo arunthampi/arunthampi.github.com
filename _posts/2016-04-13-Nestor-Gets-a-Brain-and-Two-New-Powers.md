@@ -7,9 +7,13 @@ date: '2016-04-13T14:46:54.528Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Nestor Gets a Brain and Two New Powers!
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 Nestor so far has been like Leonard Shelby from Memento — great in the moment but not so great at remembering things. Not any more!
 

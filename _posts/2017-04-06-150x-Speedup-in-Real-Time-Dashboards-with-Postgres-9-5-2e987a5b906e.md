@@ -7,9 +7,13 @@ date: '2017-04-06T15:02:00.828Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-150x Speedup in Real-Time Dashboards with Postgres 9.5
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 ![](https://cdn-images-1.medium.com/max/800/1*IjJkMCJkhJ0ChzIe8aKfkw.jpeg)
 

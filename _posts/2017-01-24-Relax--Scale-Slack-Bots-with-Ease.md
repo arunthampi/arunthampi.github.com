@@ -7,9 +7,13 @@ date: '2017-01-24T17:29:17.254Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Relax: Scale Slack Bots with Ease
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 Even though Slack is making great progress on the [Events API](https://api.slack.com/events-api), there are reasons why you would want to use Slack’s [Real-Time API](https://api.slack.com/rtm) to build your Slack bot: low latency being one of them.
 

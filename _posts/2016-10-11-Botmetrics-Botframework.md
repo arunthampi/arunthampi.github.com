@@ -7,9 +7,13 @@ date: '2016-10-11T20:31:16.730Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Botmetrics ❤️ Botframework️
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 If you’re like us, and we suspect you are, you’ve probably lovingly crafted a bot using Microsoft’s Bot Framework (the [**_most_** **_popular way_**](http://venturebeat.com/2016/09/26/microsofts-bot-platform-is-more-popular-than-facebooks-among-developers/) for developers to build bots.) Being data driven, you’re now curious to know how many users you’re getting each day, what they’re are saying to your bot, and to see how many of them are reaching the “conversion point” in your Bot’s flow.
 

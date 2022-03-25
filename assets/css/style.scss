@@ -4,8 +4,11 @@
 @import "{{ site.theme }}";
 
 h1 {
-    .subsection {
+    .subsection-without-link {
         opacity: 65%;
+    }
+    .subsection-with-link {
+        opacity: 80%;
     }
 }
 

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Sending SMS's using iPhone SDK 3.0 - A workaround
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 2 Nov 2009 - Singapore
-{: .meta }
 
 I've been trying to find a way to send SMS's as part of my upcoming iPhone app - [MovieFu](http://www.moviefuapp.com). Essentially why I need to access the SMS functionality is for a user to quickly share movie showtimes with friends who don't have access to the Internet.
 

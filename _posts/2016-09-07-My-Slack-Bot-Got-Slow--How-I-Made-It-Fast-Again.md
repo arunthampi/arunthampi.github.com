@@ -7,9 +7,13 @@ date: '2016-09-07T23:19:36.657Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## My Slack Bot Got Slow: How I Made It Fast Again
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 Nestor is a [programmable Slack Bot](https://www.asknestor.me) that supercharges your team. Nestor comes with a bunch of super powers that enable your team to get productive immediately (so Heroku, Mixpanel, CircleCI, Github, Papertrail, Librato and [more](https://www.asknestor.me/powers)) without any installing 20 different bots!
 

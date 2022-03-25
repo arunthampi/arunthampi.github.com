@@ -7,9 +7,13 @@ date: '2016-03-07T20:01:30.239Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Move Fast & Ship Things with Go & Equinox
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 One of my favorite features of the Go programming language is that you can distribute executable binaries of your software that users can download and run without installing huge VMs such as Ruby, Python and Node.JS; thus removing huge barriers for adoption.
 

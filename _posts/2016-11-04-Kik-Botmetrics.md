@@ -7,9 +7,13 @@ date: '2016-11-04T13:16:01.362Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Kik ❤️ Botmetrics
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 The Kik Messenger platform is a pioneer in the messaging and conversational UI space. With more than 20,000 Kik bots and over a billion messages being exchanged with bots, it becomes even more important to think about analytics and engagement for these bots.
 

@@ -7,9 +7,13 @@ date: '2016-04-01T18:11:04.490Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Announcing the New Nestor
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 I’m proud to take the covers off the new avatar of Nestor — it’s a programmable Slack Bot that supercharges your team. Nestor comes with a bunch of super powers that enable your team to get productive immediately (so Heroku, Mixpanel, CircleCI, Github, Papertrail, Librato and [more](https://www.asknestor.me/powers)!)
 

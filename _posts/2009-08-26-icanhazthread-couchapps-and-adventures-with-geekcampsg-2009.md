@@ -1,12 +1,13 @@
 ---
 layout: post
 title: icanhazthread, CouchApps and adventures with GeekCampSG 2009
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 26 Aug 2009 - Singapore
-{: .meta }
 
 One week before the inaugural [#geekcampsg](http://geekcamp.pbworks.com) event, I was working on developing a [CouchApp](http://github.com/couchapp/couchapp) which would would let users play around with the entire English Premier League schedule. My reasoning was that it would be an interesting problem which would bring in a lot of cool CouchDB/CouchApp features - such as map/reduce, list and show functions, etc.
 

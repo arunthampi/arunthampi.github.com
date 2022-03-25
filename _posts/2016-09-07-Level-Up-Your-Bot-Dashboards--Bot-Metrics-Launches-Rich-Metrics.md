@@ -7,9 +7,13 @@ date: '2016-09-07T22:51:06.678Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Level Up Your Bot Dashboards: Bot Metrics Launches Rich Metrics
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 As bot makers, we know how important it is to use the rich interfaces that each platform provides to drive user engagement. Some bots ask users to send their location, others user photographs to capture information in a picture yet others are starting to use audio.
 

@@ -7,9 +7,13 @@ date: '2016-10-13T15:23:45.448Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## Meet The Makers #4: Juraj Pal & SureBot
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 In this week’s edition of [Botmetrics](https://www.getbotmetrics.com) Meet The Makers, we speak to [Juraj Pal](https://twitter.com/jurajpal), who is working on [SureBot](https://syre), a bot that lets you find the best places to eat and drink.
 

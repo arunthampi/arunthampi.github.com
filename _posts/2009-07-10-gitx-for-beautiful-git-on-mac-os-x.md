@@ -1,12 +1,13 @@
 ---
 layout: post
 title: GitX for beautiful Git on Mac OS X
+section: writing
+section_link: '/archives.html'
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 
 10 Jul 2009 - Singapore
-{: .meta }
 
 Before I begin this post, let me warn you that I'm a very poor power-user of my tools. So if this post has a high-school-girl's-giddy-excitement ring to something which has been blindingly obvious to everybody, please excuse me.
 

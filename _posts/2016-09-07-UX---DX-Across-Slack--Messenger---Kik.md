@@ -7,9 +7,13 @@ date: '2016-09-07T23:22:02.498Z'
 categories: []
 keywords: []
 layout: post
+section: writing
+section_link: '/archives.html'
 ---
 
-## UX & DX Across Slack, Messenger & Kik
+## {{ page.title }}
+
+*Originally posted on [Medium](https://medium.com/@iamclovin)*
 
 At the [September Edition](https://www.eventbrite.com/e/slack-devs-events-api-edition-tickets-27177604948#) of the Slack Developers Meetup, I gave a talk on the differences between the three big bot platforms out there: [Slack](https://slack.com/api), [Facebook](https://messengerplatform.fb.com) and [Kik](https://dev.kik.com).
 
