@@ -3,7 +3,7 @@ title: Arun Thampi
 layout: default
 ---
 
-Hi 👋🏽 I love building delightful products and platforms for developers with an eye for usability, performance and scalability. I'm currently a senior software engineer at Apple working on [Siri](https://www.apple.com/siri/).
+Hi 👋🏽 I love building delightful products and platforms for developers with an eye for usability, performance and scalability. I'm currently a senior software engineer at Apple working on [visionOS and Vision Pro](https://www.apple.com/apple-vision-pro/).
 
 You can also find me on [Twitter](https://twitter.com/iamclovin), [Github](https://github.com/arunthampi) and [LinkedIn](https://linkedin.com/in/arunthampi).
 
