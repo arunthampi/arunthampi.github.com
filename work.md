@@ -3,11 +3,15 @@ layout: default
 title: Projects / Companies I have worked on
 section: work
 ---
-
-#### Senior Software Engineer at [Apple](https://apple.com) (Sep 2018 &mdash; present)
+#### Senior AR/VR Applications Engineer at [Apple](https://apple.com) (Jun 2022 &mdash; Present)
 * * *
 
-* Working on a more private Siri that works offline and on your device.
+* Working on visionOS and Vision Pro &mdash; prototyping various AR/VR experiences on visionOS and the Vision Pro.
+
+#### Senior Software Engineer at [Apple](https://apple.com) (Sep 2018 &mdash; Jun 2022)
+* * *
+
+* Worked on a more private Siri that works offline and on your device.
 
 #### Tech Lead at [Envoy](https://envoy.com) (May 2017 &mdash; Aug 2018)
 * * *
